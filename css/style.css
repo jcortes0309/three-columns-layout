@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.left-column {
+  background-color: yellow;
+  position: absolute;
+  width: 20%;
+  height: 100%;
+  left: 0;
+}
+
+.middle-column {
+  background-color: blue;
+  position: absolute;
+  width: 60%;
+  height: 100%;
+  left: 20%;
+}
+
+.right-column {
+  background-color: red;
+  position: absolute;
+  width: 20%;
+  height: 100%;
+  left: 80%;
+}
